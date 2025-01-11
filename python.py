@@ -8,3 +8,7 @@ def test_config(test):
     if test:
         return True
     return False
+
+def test_fetch(test):
+    return test
+
